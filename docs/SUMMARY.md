@@ -2,11 +2,13 @@
 
 - [What is My?](README.md)
 
-## Guides
+## Getting Started
 
-- [Creating your first project](guides/creating-your-first-project.md)
-- [Creating your first task](guides/creating-your-first-task.md)
-- [Advanced permissions](guides/advanced-permissions.md)
+- [Installation](getting-started/Installation.md)
+- [Setup Cmd environment ](getting-started/Installation.md)
+<!-- - [Creating your first project](getting-started/creating-your-first-project.md)
+- [Creating your first task](getting-started/creating-your-first-task.md)
+- [Advanced permissions](getting-started/advanced-permissions.md) -->
 
 ## Fundamentals
 
